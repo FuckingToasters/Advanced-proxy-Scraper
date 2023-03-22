@@ -1,2 +1,12 @@
-# Advanced-proxy-Scraper
-Advanced Proxy Scraper Crawler fetcher
+# Features:
+
+01. 50+ Sources Included
+02. Crawl 10K Proxies with ease
+03. Automatic Proxy Checking
+04. Remove Duplicates before saving Proxies to file
+05. Customizable checking url (yahoo, paypal etc.)
+06. fast check process => using threads
+07. Information about the process in the console window (Grab count, CPM etc.)
+08. Error Handeling (In case the response statuscode isn't in the 200 range)
+09. Unsupported Error codes will be printd too so you can add support for them yourself and make an pull request with your modifications
+10. Beautiful coorized Text output with detailed Infomrations about the current checking process.
