@@ -1,6 +1,7 @@
-# Features:
+# Tool is still in development and will be published for free in this GtHub Repo when it's done.
 
-01. 50+ Sources Included
+# Features:
+01. 50+ Sources Included (capable of scraping 100K+ Proxies with them, if you put more sources, it will scrape more)
 02. Crawl 10K Proxies with ease
 03. Automatic Proxy Checking
 04. Remove Duplicates before saving Proxies to file
